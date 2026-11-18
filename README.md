@@ -2,7 +2,7 @@
 THIS IS MY PROJECT FOR DATA ANALYTICS
 
 
-👥 Human Resource Management System (HRMS) – Power BI
+👥 HUMAN RESOURCE MANAGEMENT SYSTEM (HRMS) – Power BI
 
 📌 Project Overview
 
